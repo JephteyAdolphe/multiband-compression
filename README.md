@@ -1,5 +1,7 @@
 <h2>Multiband Compression</h2>
 
+<a href="https://youtu.be/b3rjo1jmguY">Video Presentation</a>
+
 **Authors**: Jephtey Adolphe, Mazen Abdalla, Khandaker Hossain
 
 **Dependencies**:
